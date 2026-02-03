@@ -1,0 +1,207 @@
+MODEL 1
+REMARK VINA RESULT:      -7.0      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      30.328 -17.570 -75.007  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      30.516 -17.925 -76.510  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      31.675 -18.857 -76.039  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      31.780 -18.025 -74.754  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      29.294 -18.562 -77.245  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      30.036 -16.091 -74.717  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      29.321 -18.476 -74.251  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      32.925 -19.093 -76.886  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      29.413 -18.717 -78.785  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      33.248 -20.524 -77.326  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      30.765 -19.218 -79.222  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      32.685 -20.795 -78.737  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      33.689 -18.071 -77.302  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      31.235 -20.368 -78.687  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      31.550 -18.315 -80.155  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.5      1.287      3.280
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      31.074 -18.138 -73.685  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      31.467 -18.817 -75.029  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      30.861 -17.557 -75.723  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      30.040 -17.291 -74.455  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      32.979 -19.137 -75.245  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      30.499 -19.082 -72.620  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      32.180 -17.240 -73.068  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      30.153 -17.634 -77.075  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      33.337 -20.000 -76.485  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      30.716 -16.814 -78.241  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      32.578 -19.594 -77.721  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      31.665 -17.677 -79.099  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      29.108 -18.452 -77.269  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      32.637 -18.305 -78.127  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      31.701 -20.660 -78.355  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.5      1.144      4.302
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      29.528 -19.893 -79.515  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      30.851 -19.517 -78.786  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      29.943 -18.920 -77.667  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      28.807 -18.808 -78.690  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      31.817 -20.689 -78.423  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      29.535 -19.677 -81.035  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      28.983 -21.306 -79.174  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      30.351 -17.689 -76.858  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      33.221 -20.294 -77.892  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      30.484 -17.826 -75.338  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      33.175 -19.160 -76.900  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      31.948 -18.117 -74.947  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      30.661 -16.530 -77.460  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      32.378 -19.279 -75.814  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      33.953 -17.909 -77.269  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.2      2.082      5.234
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      33.568 -19.958 -81.733  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      32.440 -19.538 -80.746  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      33.584 -19.246 -79.726  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      34.493 -20.191 -80.521  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      31.513 -18.363 -81.189  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      33.263 -21.198 -82.584  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      34.103 -18.809 -82.628  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      33.408 -19.460 -78.223  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      30.267 -18.089 -80.305  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      33.580 -18.257 -77.290  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      30.567 -18.156 -78.831  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      32.214 -17.607 -76.988  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      33.039 -20.651 -77.726  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      31.561 -17.385 -78.334  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      29.792 -19.188 -78.031  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.1      6.167      8.943
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      38.036 -23.071 -82.328  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      36.634 -22.685 -82.882  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      36.750 -21.408 -81.993  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      37.778 -22.143 -81.124  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      36.506 -22.514 -84.428  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      38.219 -24.558 -81.993  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      39.229 -22.561 -83.180  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      35.531 -20.763 -81.333  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      35.070 -22.339 -84.992  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      35.193 -19.311 -81.687  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      34.225 -21.407 -84.164  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      34.149 -19.262 -82.822  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      34.727 -21.463 -80.518  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      34.687 -20.161 -83.912  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      32.953 -21.992 -83.576  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.1      8.697     11.607
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      38.245 -24.290 -84.528  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      39.025 -23.477 -83.455  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      38.462 -24.499 -82.420  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      37.335 -24.829 -83.406  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      40.573 -23.369 -83.636  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      37.544 -23.448 -85.604  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      39.057 -25.437 -85.186  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      38.114 -24.097 -80.987  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      41.316 -22.387 -82.691  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      38.841 -24.799 -79.835  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      40.835 -22.466 -81.266  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      40.063 -23.972 -79.383  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      37.249 -23.103 -80.731  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      40.839 -23.668 -80.645  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      40.266 -21.189 -80.674  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.0      2.040      5.225
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      33.893 -20.149 -80.537  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      33.060 -19.150 -79.682  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      31.835 -20.063 -79.995  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      32.585 -20.598 -81.221  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      33.493 -18.959 -78.194  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      34.938 -19.507 -81.460  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      34.528 -21.313 -79.731  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      30.423 -19.502 -80.163  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      32.800 -17.812 -77.410  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      29.324 -19.995 -79.216  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      31.318 -17.737 -77.669  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      29.171 -19.032 -78.019  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      30.156 -18.546 -81.066  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      30.566 -18.843 -77.467  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      30.801 -16.435 -78.255  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.0      1.063      3.193
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      29.957 -17.843 -75.764  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      31.044 -18.530 -76.642  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      30.047 -18.357 -77.829  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      28.903 -18.251 -76.813  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      32.436 -17.828 -76.723  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      29.770 -18.447 -74.365  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      30.084 -16.299 -75.673  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      29.952 -19.374 -78.966  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      33.575 -18.620 -77.420  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      30.232 -18.898 -80.396  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      33.122 -19.310 -78.681  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      31.705 -19.160 -80.773  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      29.702 -20.670 -78.724  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      32.526 -18.574 -79.646  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      33.272 -20.821 -78.714  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.0      6.767      9.267
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   1      35.436 -20.929 -82.693  0.00  0.00    -0.043 C 
+HETATM    2  C   UNK N   1      36.546 -22.000 -82.897  0.00  0.00     0.002 C 
+HETATM    3  C   UNK N   1      37.200 -21.419 -81.605  0.00  0.00     0.019 C 
+HETATM    4  C   UNK N   1      36.428 -20.114 -81.838  0.00  0.00     0.018 C 
+HETATM    5  C   UNK N   1      36.096 -23.495 -82.902  0.00  0.00     0.010 C 
+HETATM    6  C   UNK N   1      34.946 -20.243 -83.976  0.00  0.00     0.015 C 
+HETATM    7  C   UNK N   1      34.228 -21.406 -81.842  0.00  0.00     0.015 C 
+HETATM    8  C   UNK N   1      38.715 -21.371 -81.410  0.00  0.00    -0.084 C 
+HETATM    9  C   UNK N   1      37.165 -24.542 -83.315  0.00  0.00     0.034 C 
+HETATM   10  C   UNK N   1      39.321 -22.120 -80.218  0.00  0.00     0.037 C 
+HETATM   11  C   UNK N   1      38.516 -24.274 -82.704  0.00  0.00    -0.087 C 
+HETATM   12  C   UNK N   1      39.786 -23.528 -80.645  0.00  0.00     0.031 C 
+HETATM   13  C   UNK N   1      39.513 -20.754 -82.295  0.00  0.00     0.014 C 
+HETATM   14  C   UNK N   1      38.607 -24.148 -81.360  0.00  0.00    -0.024 C 
+HETATM   15  C   UNK N   1      39.663 -24.048 -83.673  0.00  0.00     0.043 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
